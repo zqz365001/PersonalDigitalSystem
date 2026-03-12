@@ -1,0 +1,9 @@
+# Tests
+
+This directory contains test files.
+
+## Structure
+
+- Unit tests
+- Integration tests
+- E2E tests
